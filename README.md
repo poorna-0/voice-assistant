@@ -18,7 +18,7 @@ A beginner-friendly, Python-based voice assistant for Windows that responds to v
 -  Mute, increase or decrease system volume
 -  Lock, restart, or shut down your PC
 -  Send WhatsApp messages via WhatsApp Desktop
-- 🎛 Tkinter-based GUI with:
+-  Tkinter-based GUI with:
   - Mic icon (active/inactive)
   - Assistant status (Idle, Listening, Deactivated)
   - Command log
